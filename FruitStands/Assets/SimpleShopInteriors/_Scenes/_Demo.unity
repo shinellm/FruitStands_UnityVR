@@ -130,7 +130,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400006, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 2}
       propertyPath: m_LocalPosition.z
-      value: -0.178
+      value: -5.57
       objectReference: {fileID: 0}
     - target: {fileID: 400006, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 2}
       propertyPath: m_LocalRotation.x
@@ -154,7 +154,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 100008, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 2}
       propertyPath: m_Name
-      value: OVRPlayerController (1)
+      value: OVRPlayerController
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 2}
