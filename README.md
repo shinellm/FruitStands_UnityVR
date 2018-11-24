@@ -3,6 +3,7 @@ Combining VR and Gamification to create a module for my Senior Capstone Thesis
 
 This module is a self-contained unit of an introductory computer science topic. The module practices the programming concepts of Lists and present them in a gamified VR application. The purpose of this module is to test whether it can improve the academic performance of introductory computer science students. The module was developed using Unity's free VR software, the Oculus Rift Virtual Reality Gaming System, and a Window's workstation.
 
+
 I'm a complete novice at Unity, but this project was implemented/programed in 2 months. Regardless, here are a few things I did to set up my Unity environment and the Oculus Rift:
 
 Oculus Rift Setup
@@ -22,3 +23,14 @@ Unity Environment Setup
   - Oculus Platform SDK
 - Once downloaded, drag their unity packages into the Assets folder in Unity and import them.
 - A video explaining the above can be found here: https://www.youtube.com/watch?v=sxvKGVDmYfY
+
+
+The following Unity assets were used in my project:
+  - Oculus Integration
+  - VR Samples
+  - Food & Grocery Items - Low Poly
+  - Simple Shop Interiors - Cartoon assets
+  - Character Pack: Free Sample
+  - Free Voxel Girl (Dowloaded but ultimately not used)
+
+
