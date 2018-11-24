@@ -52,16 +52,16 @@ After you've downloaded and setup Unity and the Oculus Rift, you can download my
 ## Unity Scenes Created
 
 While developing my module, I created the following scenes:
-  - Menu
-  - MainMenu
-  - VRCOntrols
-  - TestingFood
-  - OpeningScene_Level1 and _Demo1
-  - OpeningScene_Level2 and _Demo2
-  - OpeningScene_Level3 and _Demo3
-  - OpeningScene_Level4 and _Demo4
-  - _Demo5
-  - Ending
+  - Menu (*_Vrsn 1:_* A menu screen that was supposed to be used to load the final module select levels)
+  - MainMenu (*_Vrsn 2:_* A menu screen that was supposed to be used to load the final module select levels)
+  - VRCOntrols (Used for personal practice using Unity and the Oculus Rift)
+  - TestingFood (Used to help participants practice using the Oculus Rift)
+  - OpeningScene_Level1 and _Demo1 (Level 1)
+  - OpeningScene_Level2 and _Demo2 (Level 2)
+  - OpeningScene_Level3 and _Demo3 (Further levels that weren't fully implemented)
+  - OpeningScene_Level4 and _Demo4 (Level 3)
+  - _Demo5 (Further levels that weren't fully implemented)
+  - Ending (The final screen shown to participants that used my module)
 
 ## Build Settings
 
