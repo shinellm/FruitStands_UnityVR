@@ -4,4 +4,34 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/FruitStandsLevels/MainMenu.unity
+    guid: b2f9f279fa04d624bb5b6f1f53f805f6
+  - enabled: 1
+    path: Assets/FruitStandsLevels/OpeningScene_Level1.unity
+    guid: d976d35260d5145e89c914e2c3946009
+  - enabled: 1
+    path: Assets/FruitStandsLevels/_Demo1.unity
+    guid: 5bfc240bf80194ea4822ee05bac3c89b
+  - enabled: 1
+    path: Assets/FruitStandsLevels/OpeningScene_Level2.unity
+    guid: b8681da367dec4b2bb0e2474272f45d9
+  - enabled: 1
+    path: Assets/FruitStandsLevels/_Demo2.unity
+    guid: 5c85784b4f58249c0b80df835531654f
+  - enabled: 1
+    path: Assets/FruitStandsLevels/OpeningScene_Level3.unity
+    guid: af9da54ec5b294f348ce4acd9d2c3219
+  - enabled: 1
+    path: Assets/FruitStandsLevels/_Demo3.unity
+    guid: 68cf69859d4d24099bfee6b8d9a6c48e
+  - enabled: 1
+    path: Assets/FruitStandsLevels/OpeningScene_Level4.unity
+    guid: 75235c95ca149452cae41e1448e80c54
+  - enabled: 1
+    path: Assets/FruitStandsLevels/_Demo4.unity
+    guid: cf9e7dac8033b46588bcfd3ac414beb8
+  - enabled: 1
+    path: Assets/FruitStandsLevels/Ending.unity
+    guid: 6eaa95652002c4f00953594bdab698c9
