@@ -32,5 +32,7 @@ The following Unity assets were used in my project:
   - Simple Shop Interiors - Cartoon assets
   - Character Pack: Free Sample
   - Free Voxel Girl (Dowloaded but ultimately not used)
+  - NavMeshController
+  - TextMesh Pro
 
 
