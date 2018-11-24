@@ -24,13 +24,27 @@ Unity Environment Setup
 - Once downloaded, drag their unity packages into the Assets folder in Unity and import them.
 - A video explaining the above can be found here: https://www.youtube.com/watch?v=sxvKGVDmYfY
 
-
-The following Unity assets were used in my project:
+After you've downloaded and setup Unity and the Oculus Rift, you can download my FruitStand project from Github and add the desired assests to the assests folder of your newly created project. You may need to download some of the following Unity assets below to fully view my project:
   - Oculus Integration
   - VR Samples
+  - TextMesh Pro
+  - NavMeshController
   - Food & Grocery Items - Low Poly
   - Simple Shop Interiors - Cartoon assets
   - Character Pack: Free Sample
   - Free Voxel Girl (Dowloaded but ultimately not used)
 
+When building my project, you must add the scenes in the proper cronological order to run the module. This can be done by going to: File > Build Settings and then selecting "Add Open Scenes." As you can already guess, this adds the open scene to the "Builds In Scene" list. The scenes created from this project are connected in the following sequential order:
+  - MainMenu (Not used during the testing portion of my project)
+  - TestingFood
+  - OpeningScene_Level1 and _Demo1
+  - OpeningScene_Level2 and _Demo2
+  - OpeningScene_Level3 and _Demo3
+  - OpeningScene_Level4 and _Demo4
+  - Ending
 
+Other scenes that are present, but weren't used in the final version of the project:
+    - Menu
+    - VRCOntrols
+    - _Demo5
+    
