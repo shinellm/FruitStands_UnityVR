@@ -86,4 +86,5 @@ While developing my module, I created the following scenes:
 
 When building my project, you must add the scenes in the proper cronological order to run the module. This can be done by going to: File > Build Settings and then selecting "Add Open Scenes." As you can already guess, this adds the open scene to the "Builds In Scene" list. To play my module you must add the scenes in the following order: 
   - OpeningScene_Level1 -> _Demo1 -> OpeningScene_Level2 -> _Demo2 -> OpeningScene_Level4 -> _Demo4 -> Ending
+  
 Doing this allows the module to progress through each added scene sequentially.
