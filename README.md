@@ -1,6 +1,7 @@
 # FruitStands_UnityVR
 
-Combining VR and Gamification to create a module for my Senior Capstone Thesis
+Combining VR and Gamification to create a module for my Senior Capstone Thesis:
+http://orzo.union.edu/Archives/SeniorProjects/2018/CS.2018/#10
 
 This module is a self-contained unit of an introductory computer science topic. The module practices the programming concepts of Lists and present them in a gamified VR application. The purpose of this module is to test whether it can improve the academic performance of introductory computer science students. The module was developed using Unity's free VR software, the Oculus Rift Virtual Reality Gaming System, and a Window's workstation.
 
