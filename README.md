@@ -5,7 +5,7 @@ http://orzo.union.edu/Archives/SeniorProjects/2018/CS.2018/#10
 
 This module is a self-contained unit of an introductory computer science topic. The module practices the programming concepts of Lists and present them in a gamified VR application. The purpose of this module is to test whether it can improve the academic performance of introductory computer science students. The module was developed using Unity's free VR software, the Oculus Rift Virtual Reality Gaming System, and a Window's workstation.
 
-I am complete novice at Unity and this project was implemented/programed in 2 months. Below I will describe different information about my final VR project.
+I am a complete novice at Unity and this project was implemented/programed in 2 months. Below I will describe different information about my final VR project.
 
 
 ## Table of Contents  
