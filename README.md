@@ -3,6 +3,8 @@
 Combining VR and Gamification to create a module for my Senior Capstone Thesis:
 http://orzo.union.edu/Archives/SeniorProjects/2018/CS.2018/#10
 
+![](Level3-Game-Play.gif)
+
 This module is a self-contained unit of an introductory computer science topic. The module practices the programming concepts of Lists and present them in a gamified VR application. The purpose of this module is to test whether it can improve the academic performance of introductory computer science students. The module was developed using Unity's free VR software, the Oculus Rift Virtual Reality Gaming System, and a Window's workstation.
 
 I am a complete novice at Unity and this project was implemented/programed in 2 months. Below I will describe different information about my final VR project.
@@ -22,6 +24,8 @@ I am a complete novice at Unity and this project was implemented/programed in 2 
 [Unity Scenes Created](#unity-scenes-created)
 
 [Build Settings](#build-settings)
+
+[Gif Gallery](#gif-gallery)
 
 ## Thesis Abstract
 
@@ -89,3 +93,31 @@ When building my project, you must add the scenes in the proper cronological ord
   - OpeningScene_Level1 -> _Demo1 -> OpeningScene_Level2 -> _Demo2 -> OpeningScene_Level4 -> _Demo4 -> Ending
   
 Doing this allows the module to progress through each added scene sequentially.
+
+## Gif Gallery
+
+Here are short snippets of the module in action!
+
+### Some Bugs Encountered & Fixed Along the Way
+
+#### Apple Bug
+
+![](Apple-Bug.gif)
+
+#### Broccoli Bug
+
+![](Broccoli-Bug.gif)
+
+#### Exploding Shelves
+
+![](Exploding-Shelves.gif)
+
+### Level Examples
+
+#### Level 1 - Opening Scene
+
+![](Level1-Opening-Scene.gif)
+
+#### Level 3 - Game Play
+
+![](Level3-Game-Play.gif)
