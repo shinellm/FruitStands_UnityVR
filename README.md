@@ -3,7 +3,7 @@
 Combining VR and Gamification to create a module for my Senior Capstone Thesis:
 http://orzo.union.edu/Archives/SeniorProjects/2018/CS.2018/#10
 
-![](Level3-Game-Play.gif)
+![](Images/Level3-Game-Play.gif)
 
 This module is a self-contained unit of an introductory computer science topic. The module practices the programming concepts of Lists and present them in a gamified VR application. The purpose of this module is to test whether it can improve the academic performance of introductory computer science students. The module was developed using Unity's free VR software, the Oculus Rift Virtual Reality Gaming System, and a Window's workstation.
 
@@ -44,11 +44,11 @@ Due to its ease of translatability to a VR module and engaging preliminary modul
 
 #### Store#1:
 
-![](Store1.gif)
+![](Images/Store1.gif)
 
 #### Store#2:
 
-![](Store2.gif)
+![](Images/Store2.gif)
 
 To increase participants familiarity and make it easier for them to understand the Oculus Rift controls, the TestingFood practice scene was created. In the practice scene, the participant is presented with 4 white counters that hold a variety of items that they will later interact with while using the module (e.g. bread, tomato, banana, soda, and chips). They are asked to practice activities such as looking around at their environment, using the left joystick to shift their point of view, using the right joystick to move around, and using the “grip” button to pick up and put down objects. Once they complete the activities mentioned in the module instructions and the participant is ready to move on, we start off in opening scene 1.
 
@@ -134,22 +134,22 @@ Here are short snippets of the module in action!
 
 #### Apple Bug
 
-![](Apple-Bug.gif)
+![](Images/Apple-Bug.gif)
 
 #### Broccoli Bug
 
-![](Broccoli-Bug.gif)
+![](Images/Broccoli-Bug.gif)
 
 #### Exploding Shelves
 
-![](Exploding-Shelves.gif)
+![](Images/Exploding-Shelves.gif)
 
 ### Level Examples
 
 #### Level 1 - Opening Scene
 
-![](Level1-Opening-Scene.gif)
+![](Images/Level1-Opening-Scene.gif)
 
 #### Level 3 - Game Play
 
-![](Level3-Game-Play.gif)
+![](Images/Level3-Game-Play.gif)
