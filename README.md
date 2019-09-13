@@ -130,7 +130,7 @@ Doing this allows the module to progress through each added scene sequentially.
 
 Here are short snippets of the module in action!
 
-### Some Bugs Encountered & Fixed Along the Way
+### Some Bugs Encountered & Fixed Along the Way:
 
 #### Apple Bug
 
@@ -144,7 +144,7 @@ Here are short snippets of the module in action!
 
 ![](Images/Exploding-Shelves.gif)
 
-### Level Examples
+### Level Examples:
 
 #### Level 1 - Opening Scene
 
