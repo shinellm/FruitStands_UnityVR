@@ -60,7 +60,7 @@ The opening scenes help to introduce the participant to the manager who teaches 
 
 2.  Clone the repo:
 
-        git clone https://github.com/shinellmanwaring/FruitStands_UnityVR.git
+        git clone git@github.com:shinellm/FruitStands_UnityVR.git
 
 3. Open up the Unity application and log in. In the Projects tab select the "Open" option and then select the "FruitStands" folder within your cloned repo folder. It should begin importing the files into Unity.
 
